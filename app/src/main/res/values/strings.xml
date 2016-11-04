@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleScanner</string>
+    <string name="exit_button">Exit</string>
+    <string name="scan_button">Scan</string>
+    <string name="title_activity_simple_scan">SimpleScan</string>
+
+</resources>
